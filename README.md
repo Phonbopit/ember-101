@@ -1,7 +1,9 @@
 ember-101
 =========
 
-Learn Ember.js the first time by Building Simple Web Application called Emblr - A Simple Blog.
+Learn Ember.js the first time by reading/watching many of resources.
+
+- [An In-Depth Indroduction To Ember.js by Teamtreehouse](http://teamtreehouse.com/library/emberjs)
 
 
 ## Link
